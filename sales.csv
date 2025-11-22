@@ -1,0 +1,21 @@
+Date,Product,Region,Sales,Quantity
+2025-01-01,Product A,North,1200,30
+2025-01-02,Product B,South,800,20
+2025-01-03,Product C,East,950,25
+2025-01-04,Product A,West,1100,28
+2025-01-05,Product B,North,700,18
+2025-01-06,Product C,South,1050,26
+2025-01-07,Product A,East,1300,32
+2025-01-08,Product B,West,900,22
+2025-01-09,Product C,North,1150,29
+2025-01-10,Product A,South,1250,31
+2025-01-11,Product B,East,850,21
+2025-01-12,Product C,West,980,24
+2025-01-13,Product A,North,1400,35
+2025-01-14,Product B,South,750,19
+2025-01-15,Product C,East,1020,27
+2025-01-16,Product A,West,1180,30
+2025-01-17,Product B,North,920,23
+2025-01-18,Product C,South,1100,28
+2025-01-19,Product A,East,1350,33
+2025-01-20,Product B,West,870,22
